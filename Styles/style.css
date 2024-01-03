@@ -1,0 +1,38 @@
+*{
+     margin: 0px; 
+    /* margin: 5px 40px 5px 40px; */
+    
+}
+.a{
+    background-color: rgb(221, 250, 250); 
+    text-align: center;
+    /* color: blue; */
+    /* margin: 0px; */
+}
+.b{
+    background-color: white;
+    /* margin: 400px; */
+    padding: 20px;
+    border: 20px solid rgb(221, 250, 250);
+ 
+}
+#c{
+    color: blue;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#d{
+    font-size:20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.e{
+    background-color: blue;
+    color: white;
+    width: 250px;
+    height: 28px;
+}
+.f{
+    width: 250px;
+    height: 30px;
+}
