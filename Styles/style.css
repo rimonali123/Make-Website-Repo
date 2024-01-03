@@ -4,16 +4,26 @@
     
 }
 .a{
-    background-color: rgb(221, 250, 250); 
+    /* background-color: white;  */
     text-align: center;
     /* color: blue; */
     /* margin: 0px; */
 }
 .b{
-    background-color: white;
+    /* background-color: white;
     /* margin: 400px; */
-    padding: 20px;
-    border: 20px solid rgb(221, 250, 250);
+    /* padding: 20px; */
+    /* border: 20px solid rgb(221, 250, 250); */ 
+    border:80px solid rgb(201, 207, 207);
+    border-left: 500px solid rgb(201, 207, 207); 
+    border-right: 500px solid rgb(201, 207, 207);
+   
+    
+    /* background-color: rgb(235, 231, 228); */
+    height: 300px;
+    /* padding:30px;  */
+    padding-top: 30px;
+    
  
 }
 #c{
